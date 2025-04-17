@@ -4,3 +4,6 @@
 [submodule "auth"]
 	path = auth
 	url = https://github.com/Andr171p/auth.git
+[submodule "parser"]
+	path = parser
+	url = https://github.com/Andr171p/1C-ITS-parser.git
