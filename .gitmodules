@@ -1,0 +1,3 @@
+[submodule "ai_agent"]
+	path = ai_agent
+	url = https://github.com/Andr171p/ai_agent.git
